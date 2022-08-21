@@ -1,0 +1,24 @@
+/*********************** TAG SELECTORS **********************/
+body {background-color: #D4ECDD;}
+hr {
+  background-color: #152D35;
+  border-style: inset;
+  height: 2px;
+  width: 97%
+}
+img{
+  height: 250px;
+}
+p{color: #345B63;}
+
+
+li{color: #345B63;}
+
+/*********************** CLASS SELECTORS **********************/
+/*CLASS FOR MULTIPLE INSTANTCES*/
+
+/*********************** IDS SELECTORS **********************/
+/* ONLY HAVE SINGLE INSTANT OF IDS AND MORE THAN ONE ID*/
+#headings{
+  color: #345B63;
+}
