@@ -21,6 +21,8 @@ li::marker {
     content: '- ';
     font-size: 1.2em;
 }
+th{color:  #345B63;}
+td{color:  #345B63;}
 
 /*********************** CLASS SELECTORS **********************/
 /*CLASS FOR MULTIPLE INSTANTCES*/
