@@ -11,8 +11,16 @@ img{
 }
 p{color: #345B63;}
 
-
-li{color: #345B63;}
+ul{
+  color: #345B63;
+}
+ol{
+  color: #345B63;
+}
+li::marker {
+    content: '- ';
+    font-size: 1.2em;
+}
 
 /*********************** CLASS SELECTORS **********************/
 /*CLASS FOR MULTIPLE INSTANTCES*/
